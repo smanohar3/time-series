@@ -1,2 +1,2 @@
 # time-series
-Time series python
+This notebook contains the Time series analysis in Python.
